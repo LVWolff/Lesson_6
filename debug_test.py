@@ -9,3 +9,10 @@ if len(list_temp)>0:
     print(sum/len(list_temp))
 else:
     print('List is empty')
+
+
+n = 2
+for i in range(1, n):
+    print('d')
+else:
+    print('a')
